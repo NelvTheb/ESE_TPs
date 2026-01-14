@@ -1,4 +1,4 @@
-# ESE_TP
+# ESE_TPs
 
 Mes comptes rendus de TP en 3A ESE à l'ENSEA (dernière année) :
 
