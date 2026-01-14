@@ -14,4 +14,6 @@ Mes comptes rendus de TP en 3A ESE à l'ENSEA (dernière année) :
 
 # Projet de 3A
 
-- [ENSEA_3A_PROJET_ChaSouRo](https://github.com/HugouShare/ENSEA_3A_PROJET_ChaSouRo) - Nelven / Hugo Cordi / Hugo CF / Arthur
+| Projet | Dépôt | Équipe |
+|--------|-------|--------|
+| ChaSouRo | [ENSEA_3A_PROJET_ChaSouRo](https://github.com/HugouShare/ENSEA_3A_PROJET_ChaSouRo) | Nelven / Hugo Cordi / Hugo CF / Arthur |
